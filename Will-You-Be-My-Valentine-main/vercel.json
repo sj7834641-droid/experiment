@@ -1,11 +1,8 @@
 {
-    "buildCommand": null,
-    "outputDirectory": ".",
-    "framework": null,
-    "rewrites": [
+    "redirects": [
         {
-            "source": "/(.*)",
-            "destination": "/index.html"
+            "source": "/",
+            "destination": "/Will-You-Be-My-Valentine-main/index.html"
         }
     ]
 }
